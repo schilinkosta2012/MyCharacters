@@ -1,0 +1,13 @@
+type hero with name dafamin: 
+dafamin.iq = 20 
+dafamin.legs = 2 
+dafamin.arms = 2
+
+dafamin can:
+move
+say
+flipback
+hook
+
+
+lore = "мясник города....."
